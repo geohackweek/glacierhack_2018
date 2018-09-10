@@ -24,3 +24,8 @@
 # Forked glacierhack_2018
 
 git clone https://github.com/LynnKaack/glacierhack_2018.git
+
+# Made my own folder
+
+# how to pull changes from the main folder, upstream is an identifier
+git remote add upstream https://github.com/geohackweek/glacierhack_2018.git
