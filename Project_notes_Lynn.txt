@@ -1,0 +1,26 @@
+# Project notes
+
+# Ideas of flow:
+
+- co-registration
+
+- x arrays
+  http://xarray.pydata.org/en/stable/
+
+- time series analysis
+
+- Get info/statistics out of that
+
+- visualize
+
+
+# Git flow:
+
+# all working with the master in personal folder or all working on forks
+
+# We prefer working with a hybrid
+# Joachim keeps track of the merges
+
+# Forked glacierhack_2018
+
+git clone https://github.com/LynnKaack/glacierhack_2018.git
