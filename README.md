@@ -15,3 +15,12 @@ Contents of dem_coreg subdirectory (output from pc_align co-registration):
 Example filename:
 - 20161105_0448_1050010007140900_1050010007140B00-DEM_8m_trans.tif
 - YYYYmmdd_MMSS_catalogid1_catalogid2
+
+
+# Tasks
+
+- Co-register DEMs: Done!
+- Write the code to recognize the data files
+- Import the data into xarray Dataset list (or equivalent) where elevations can be addressed by (lat, lon) coordinates
+- Build a point visualizer: Suggest a Widget tool with lat and lon sliders that plots altitude against time
+- Build a raster visualizer: Suggest a time widget rendering elevation as color relative to the mean
