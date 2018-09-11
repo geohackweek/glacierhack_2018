@@ -9,9 +9,11 @@ DEM differencing and time series analysis
 - Lynn Kaack - Applied Mathematics
 - Joachim Meyer - Computer Science and Software Development
 - Wei Wei - Geophysics - Ice Sheets and Ocean Interactions
-- Shashank Bhushan
 
-# Data Science Lead
+## Team Lead
+- Shashank Bhushan - Glaciology and Geospatial Image Analysis
+
+## Data Science Lead
 - Friedrich Knuth - Data Science Methods and Geospatial Image Analysis
 
 # The problem
@@ -46,11 +48,39 @@ See NSIDC page for additional details:
 - https://nsidc.org/data/HMA_DEM8m_MOS/versions/1#title0
 
 # Specific Questions
-How much water is being released / added to the system?
-Is the trendfitting of glacial mass change robust to systems that experience high variability?
+- Can we quantify inter-annual changes in digital elevation models that represent glacial mass balance?
+- Is the trendfitting of glacial mass change robust to systems that experience high variability? (What kind of math makes sense?) -- math folks
+- Can we improve upon time series analysis methods cappturing changes in digital elevation models (DEMs)?
+- What can we learn from image analysis and statistical methods (machine learning), applied to this 4 dimensional array?
+- How do our solutions perform at scale? Can we leverage the xarray stack and processing power of a Pangeo? Pangeo is a kubernetes powered jupyterhub configuration that enables distributed data processing and analysis through dask and xarray.
+- How much water is being released / added to the system?
+- Can we calculate velocities from changes in elevation and create a velocity map/vector field for the glacier?
+
+# Existing methods
+How would you or others traditionally try to address this problem?
+
+# Proposed methods/tools
+Building from what you learn at geohackweek, what new approaches would you like to try to implement?
+
+## Tools/Libraries
+- pygeotools
+- rasterio
+- matplotlib
+- 
+
+## Products
+- Notebook for visualization
+- Interactive 2D/3D widgets
+
+## Goals
+- Explore stacking raster DEMs and conversion to nD xarray object (basic elevation time series manipulations)
+- Explore stacking raster DEMs and conversion to Dask array (perform distributed computing)
+- Explore bridge between a dataset (Python) and Google Earth Engine (Javascript)
+
+# Background reading
+Optional: links to manuscripts or technical documents for more in-depth analysis.
 
 # Tasks
-
 - Co-register DEMs: Done!
 - Write the code to recognize the data files
 - Import the data into xarray Dataset list (or equivalent) where elevations can be addressed by (lat, lon) coordinates
