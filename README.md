@@ -1,5 +1,29 @@
-# Glacierhack 2018
+# Glacierhack 2018 (Project Title)
 DEM differencing and time series analysis
+
+# Collaborators
+- Elad Dente - Hydro-Geomorphology
+- Håvard Holm - Applied Mathematics
+- Daniel Howard - Applied Mathematics
+- Michelle Hu - Hydrology - Snow Water Runoff
+- Lynn Kaack - Applied Mathematics
+- Joachim Meyer - Computer Science and Software Development
+- Wei Wei - Geophysics - Ice Sheets and Ocean Interactions
+- Shashank Bhushan
+
+# Data Science Lead
+- Friedrich Knuth - Data Science Methods and Geospatial Image Analysis
+
+# The problem
+- Can we quantify inter-annual changes in digital elevation models that represent glacial mass balance?
+- Can we improve upon time series analysis methods cappturing changes in digital elevation models (DEMs)?
+- What can we learn from image analysis and statistical methods (machine learning), applied to this 4 dimensional array?
+- How do our solutions perform at scale? Can we leverage the xarray stack and processing power of a Pangeo? Pangeo is a kubernetes powered jupyterhub configuration that enables distributed data processing and analysis through dask and xarray.
+
+# Relevance (So What? - Application Example)
+- Predict the fate of glaciers and impact for water resource management. 
+- Explore if methods developed for this dataset can be applied to other glacier systems, such as glaciers that experience periodic surges. 
+- Learn new data science methods.
 
 # Data
 Khumbu time series: https://drive.google.com/drive/folders/0B5c3UTO8DDZwdmpYaFlXa1BkM0U?usp=sharing
@@ -20,6 +44,10 @@ See NSIDC page for additional details:
 - https://nsidc.org/data/HMA_DEM8m_AT/versions/1#title0
 - https://nsidc.org/data/HMA_DEM8m_CT/versions/1#title0
 - https://nsidc.org/data/HMA_DEM8m_MOS/versions/1#title0
+
+# Specific Questions
+How much water is being released / added to the system?
+Is the trendfitting of glacial mass change robust to systems that experience high variability?
 
 # Tasks
 
