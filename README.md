@@ -14,8 +14,12 @@ Contents of dem_coreg subdirectory (output from pc_align co-registration):
 
 Example filename:
 - 20161105_0448_1050010007140900_1050010007140B00-DEM_8m_trans.tif
-- YYYYmmdd_MMSS_catalogid1_catalogid2
+- YYYYmmdd_HHMM_catalogid1_catalogid2
 
+See NSIDC page for additional details: 
+- https://nsidc.org/data/HMA_DEM8m_AT/versions/1#title0
+- https://nsidc.org/data/HMA_DEM8m_CT/versions/1#title0
+- https://nsidc.org/data/HMA_DEM8m_MOS/versions/1#title0
 
 # Tasks
 
