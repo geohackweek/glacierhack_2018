@@ -71,7 +71,7 @@ See NSIDC page for additional details:
 - Explore bridge between a dataset (Python) and Google Earth Engine (Javascript)
 
 # Background reading
-Optional: links to manuscripts or technical documents for more in-depth analysis.
+[See the Wiki](Background-reading-and-information)
 
 # Tasks
 - Co-register DEMs: Done!
