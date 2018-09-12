@@ -27,25 +27,8 @@ DEM differencing and time series analysis
 - Explore if methods developed for this dataset can be applied to other glacier systems, such as glaciers that experience periodic surges. 
 - Learn new data science methods.
 
-# Data
-Khumbu time series: https://drive.google.com/drive/folders/0B5c3UTO8DDZwdmpYaFlXa1BkM0U?usp=sharing
-
-Composite DEM at 8-m posting for full area:
-- hma_20170716_mos_8m_warp_dzfilt_0.00-100.00_gaussfill-tile-0.tif
-
-Contents of dem_coreg subdirectory (output from pc_align co-registration):
-- Co-registered DEMs at 2, 8 and 32 m posting: *_2m_trans.tif
-- Shaded relief maps (illumination from NW, azimuth of 315 degrees): *_hs_az315.tif
-- Multidirecitonal shaded relief maps: *hs_multi.tif
-
-Example filename:
-- 20161105_0448_1050010007140900_1050010007140B00-DEM_8m_trans.tif
-- YYYYmmdd_HHMM_catalogid1_catalogid2
-
-See NSIDC page for additional details: 
-- https://nsidc.org/data/HMA_DEM8m_AT/versions/1#title0
-- https://nsidc.org/data/HMA_DEM8m_CT/versions/1#title0
-- https://nsidc.org/data/HMA_DEM8m_MOS/versions/1#title0
+# Dataset
+[Khumbu Time Series](https://github.com/geohackweek/glacierhack_2018/wiki/Dataset)
 
 # Specific Questions
 - Can we quantify inter-annual changes in digital elevation models that represent glacial mass balance?
