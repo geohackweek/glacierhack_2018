@@ -42,7 +42,7 @@ DEM differencing and time series analysis
 # Proposed methods/tools
 
 ## Tools/Libraries
-[Relevant python libraries](Resources-for-literature-and-relevant-python-libraries)
+[Relevant python libraries](https://github.com/geohackweek/glacierhack_2018/wiki/Resources-for-literature-and-relevant-python-libraries)
 
 ## Products
 - Notebook for visualization
@@ -54,7 +54,7 @@ DEM differencing and time series analysis
 - Explore bridge between a dataset (Python) and Google Earth Engine (Javascript)
 
 # Background reading
-[See the Wiki](Background-reading-and-information)
+[See the Wiki](https://github.com/geohackweek/glacierhack_2018/wiki/Background-reading-and-information)
 
 # Tasks
 - Co-register DEMs: Done!
