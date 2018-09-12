@@ -56,17 +56,10 @@ See NSIDC page for additional details:
 - How much water is being released / added to the system?
 - Can we calculate velocities from changes in elevation and create a velocity map/vector field for the glacier?
 
-# Existing methods
-How would you or others traditionally try to address this problem?
-
 # Proposed methods/tools
-Building from what you learn at geohackweek, what new approaches would you like to try to implement?
 
 ## Tools/Libraries
-- pygeotools
-- rasterio
-- matplotlib
-- 
+[Relevant python libraries](Resources-for-literature-and-relevant-python-libraries)
 
 ## Products
 - Notebook for visualization
