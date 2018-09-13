@@ -16,6 +16,7 @@ dependencies:
         - pyproj
         - shapely
         - ffmpeg
+        - xarray
         - pip:
             - pygeotools
             - pygeoprocessing
