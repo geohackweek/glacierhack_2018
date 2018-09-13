@@ -12,6 +12,7 @@ dependencies:
         - jupyter
         - matplotlib
         - numpy
+        - geopandas
         - pyproj
         - shapely
         - ffmpeg
