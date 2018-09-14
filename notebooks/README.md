@@ -19,6 +19,7 @@ DEM differencing and time series analysis.
 [notebook](https://nbviewer.jupyter.org/github/geohackweek/glacierhack_2018/blob/master/notebooks/2_michelle_elad.ipynb)
 
 **3** Create velocity maps from hillshade profiles using vmap and NASA Ames Stereo Pipeline **Wei, Shashank** 
+[notebook](https://nbviewer.jupyter.org/github/weiweiutd/glacierhack_2018/blob/master/notebooks/3_wei_shashank.ipynb)
 
 **4** Read in DEM data straight from Google Drive without downloading the files **Daniel, Friedrich**  
 [notebook](https://nbviewer.jupyter.org/github/geohackweek/glacierhack_2018/blob/master/notebooks/4_daniel_friedrich.ipynb)
