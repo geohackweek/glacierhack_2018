@@ -1,0 +1,35 @@
+# Project notes
+
+# Ideas of flow:
+
+- co-registration
+
+- x arrays
+  http://xarray.pydata.org/en/stable/
+
+- time series analysis
+
+- Get info/statistics out of that
+
+- visualize
+
+
+# Git flow:
+
+# all working with the master in personal folder or all working on forks
+
+# We prefer working with a hybrid
+# Joachim keeps track of the merges
+
+# Forked glacierhack_2018
+
+git clone https://github.com/LynnKaack/glacierhack_2018.git
+
+# Made my own folder
+
+# how to pull changes from the main folder, upstream is an identifier
+git remote add upstream https://github.com/geohackweek/glacierhack_2018.git
+
+git fetch upstream
+
+
