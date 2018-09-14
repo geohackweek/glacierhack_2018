@@ -55,11 +55,3 @@ DEM differencing and time series analysis
 
 # Background reading
 [See the Wiki](https://github.com/geohackweek/glacierhack_2018/wiki/Background-reading-and-information)
-
-# Tasks
-- Co-register DEMs: Done!
-- Write the code to recognize the data files
-- Import the data into xarray Dataset list (or equivalent) where elevations can be addressed by (lat, lon) coordinates
-- Build a point visualizer: Suggest a Widget tool with lat and lon sliders that plots altitude against time
-  - If you are unfamiliar with Python widgets I'm happy to demo
-- Build a raster visualizer: Suggest a time widget rendering elevation as color relative to the mean
