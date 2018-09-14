@@ -11,7 +11,7 @@ DEM differencing and time series analysis.
 
 **0** Run pygeotools and raster tutorial workflow on Khumbu dataset. Explore time series analysis. **Lynn, Havard** 
 
-**1** Read DEMs into Xarray and compare performance to pygeotools operations (future work)**Joe, Shashank** 
+**1** Read DEMs into Xarray and compare performance to pygeotools operations (future work) **Joe, Shashank** 
 
 **2** Visualize and extract elevation profiles from DEMs. **Michelle, Elad** 
 
