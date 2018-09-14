@@ -17,6 +17,8 @@ dependencies:
         - shapely
         - ffmpeg
         - xarray
+        - bokeh
+        - holoviews
         - pip:
             - pygeotools
             - pygeoprocessing
